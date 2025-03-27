@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AndroidAppTests",
+    "\\AppiumDriver",
+    "\\AppleAppPom",
+    "\\AppleAppTests",
+    "\\ClassLibrary",
+    "\\Interfaces",
+    "\\SeleniAppDriver",
+    "\\WebPortalPom",
+    "\\WebPortalTests"
+  ],
+  "SelectedNode": "\\AppleAppPom\\LoginPage.cs",
+  "PreviewInSolutionExplorer": false
+}

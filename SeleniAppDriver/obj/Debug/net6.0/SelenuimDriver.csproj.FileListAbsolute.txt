@@ -1,0 +1,15 @@
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\SelenuimDriver.deps.json
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\SelenuimDriver.dll
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\bin\Debug\net6.0\SelenuimDriver.pdb
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.csproj.AssemblyReference.cache
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.AssemblyInfoInputs.cache
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.AssemblyInfo.cs
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.csproj.CoreCompileInputs.cache
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.dll
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\refint\SelenuimDriver.dll
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SelenuimDriver.pdb
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\ref\SelenuimDriver.dll

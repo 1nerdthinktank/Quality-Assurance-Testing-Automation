@@ -1,0 +1,5 @@
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SeleniumWebDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Alix Corley\source\repos\QualityAssurenceTestingAutomation\SelenuimDriver\obj\Debug\net6.0\SeleniumWebDriver.csproj.CoreCompileInputs.cache
